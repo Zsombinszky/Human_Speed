@@ -1,0 +1,262 @@
+[
+  {
+    "rank": 1,
+    "name": "Parker Solar Probe",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 191,
+      "units": "km/s",
+      "approx_kmh": 687600
+    },
+    "reference_frame": "heliocentric (relative to the Sun)",
+    "year": 2024,
+    "note": "Fastest human-made object; 430,000 mph (191 km/s) at Dec 2024 perihelion."
+  },
+  {
+    "rank": 2,
+    "name": "Helios 2",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 70.2,
+      "units": "km/s",
+      "approx_kmh": 252720.0
+    },
+    "reference_frame": "heliocentric",
+    "year": 1976,
+    "note": "Previous fastest relative to Sun until Parker; solar probe launched by NASA/DFVLR."
+  },
+  {
+    "rank": 3,
+    "name": "Helios 1",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 66.1,
+      "units": "km/s",
+      "approx_kmh": 237959.99999999997
+    },
+    "reference_frame": "heliocentric",
+    "year": 1975,
+    "note": "High-speed solar orbiter preceding Helios 2."
+  },
+  {
+    "rank": 4,
+    "name": "Juno (perijove)",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 58,
+      "units": "km/s",
+      "approx_kmh": 208800
+    },
+    "reference_frame": "jovicentric (relative to Jupiter) / heliocentric similar",
+    "year": 2016,
+    "note": "Reached ~58 km/s at closest approach to Jupiter during orbit insertion."
+  },
+  {
+    "rank": 5,
+    "name": "Ulysses (at Earth departure)",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 15.4,
+      "units": "km/s",
+      "approx_kmh": 55440.0
+    },
+    "reference_frame": "geocentric escape velocity at departure",
+    "year": 1990,
+    "note": "At the time, fastest Earth-departing spacecraft per NASA."
+  },
+  {
+    "rank": 6,
+    "name": "Voyager 1",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 17.0,
+      "units": "km/s",
+      "approx_kmh": 61200.0
+    },
+    "reference_frame": "heliocentric",
+    "year": 2024,
+    "note": "Farthest human-made object; ~38,027 mph relative to Sun."
+  },
+  {
+    "rank": 7,
+    "name": "New Horizons (Earth-relative after launch)",
+    "category": "spacecraft",
+    "top_speed": {
+      "value": 16.26,
+      "units": "km/s",
+      "approx_kmh": 58536.00000000001
+    },
+    "reference_frame": "geocentric (Earth-relative after launch)",
+    "year": 2006,
+    "note": "Fastest Earth-departure speed at launch; later heliocentric speed ~14 km/s."
+  },
+  {
+    "rank": 8,
+    "name": "Stardust Sample Return Capsule (Earth reentry)",
+    "category": "reentry capsule",
+    "top_speed": {
+      "value": 12.9,
+      "units": "km/s",
+      "approx_kmh": 46440.0
+    },
+    "reference_frame": "Earth-relative (atmospheric entry)",
+    "year": 2006,
+    "note": "Fastest Earth atmospheric reentry by a human-made object."
+  },
+  {
+    "rank": 9,
+    "name": "Apollo 10 (crewed)",
+    "category": "crewed spacecraft",
+    "top_speed": {
+      "value": 11.08,
+      "units": "km/s",
+      "approx_kmh": 39888.0
+    },
+    "reference_frame": "Earth-relative during return",
+    "year": 1969,
+    "note": "Fastest speed ever attained by humans."
+  },
+  {
+    "rank": 10,
+    "name": "Typical LEO spacecraft (e.g., ISS)",
+    "category": "orbital platform",
+    "top_speed": {
+      "value": 7.66,
+      "units": "km/s",
+      "approx_kmh": 27576.0
+    },
+    "reference_frame": "Earth-relative orbital velocity",
+    "year": 1998,
+    "note": "ISS orbits ~7.66 km/s (27,600 km/h)."
+  },
+  {
+    "rank": 11,
+    "name": "Space Shuttle Orbiter (orbital)",
+    "category": "crewed spacecraft",
+    "top_speed": {
+      "value": 7.8,
+      "units": "km/s",
+      "approx_kmh": 28080.0
+    },
+    "reference_frame": "Earth-relative orbital velocity",
+    "year": 1981,
+    "note": "Reached ~17,500 mph (~7.8 km/s) in LEO."
+  },
+  {
+    "rank": 12,
+    "name": "LGM-30G Minuteman III RV (terminal)",
+    "category": "missile reentry vehicle",
+    "top_speed": {
+      "value": 7.8,
+      "units": "km/s",
+      "approx_kmh": 28080.0
+    },
+    "reference_frame": "Earth-relative (reentry)",
+    "year": 1970,
+    "note": "ICBM RV reentry ~Mach 23 (~7.8 km/s)."
+  },
+  {
+    "rank": 13,
+    "name": "NASA X-43A (air-breathing aircraft)",
+    "category": "hypersonic research aircraft",
+    "top_speed": {
+      "value": 9.6,
+      "units": "Mach",
+      "approx_kmh": null
+    },
+    "reference_frame": "airspeed (sea-level equivalent Mach)",
+    "year": 2004,
+    "note": "Fastest air-breathing aircraft; Mach 9.6 (~~3.2 km/s at altitude)."
+  },
+  {
+    "rank": 14,
+    "name": "Boeing X-51A Waverider",
+    "category": "hypersonic research aircraft",
+    "top_speed": {
+      "value": 5.1,
+      "units": "Mach",
+      "approx_kmh": null
+    },
+    "reference_frame": "airspeed",
+    "year": 2013,
+    "note": "Sustained Mach 5+ for 210 s."
+  },
+  {
+    "rank": 15,
+    "name": "North American X-15 (crewed rocket plane)",
+    "category": "crewed aircraft",
+    "top_speed": {
+      "value": 6.7,
+      "units": "Mach",
+      "approx_kmh": null
+    },
+    "reference_frame": "airspeed",
+    "year": 1967,
+    "note": "Fastest crewed powered aircraft: 4,520 mph (Mach 6.7)."
+  },
+  {
+    "rank": 16,
+    "name": "Lockheed SR-71 Blackbird (air-breathing, crewed)",
+    "category": "crewed aircraft",
+    "top_speed": {
+      "value": 3.32,
+      "units": "Mach",
+      "approx_kmh": null
+    },
+    "reference_frame": "airspeed",
+    "year": 1976,
+    "note": "Official speed record Mach 3.32 (2,193 mph)."
+  },
+  {
+    "rank": 17,
+    "name": "ThrustSSC (land speed record car)",
+    "category": "land vehicle",
+    "top_speed": {
+      "value": 1227.985,
+      "units": "km/h",
+      "approx_kmh": 1227.985
+    },
+    "reference_frame": "ground speed",
+    "year": 1997,
+    "note": "Official FIA land speed record; first supersonic car."
+  },
+  {
+    "rank": 18,
+    "name": "Spirit of Australia (water speed record boat)",
+    "category": "boat",
+    "top_speed": {
+      "value": 511.11,
+      "units": "km/h",
+      "approx_kmh": 511.11
+    },
+    "reference_frame": "water speed (two-way average)",
+    "year": 1978,
+    "note": "Official world water speed record."
+  },
+  {
+    "rank": 19,
+    "name": "Eurocopter X3 (compound helicopter)",
+    "category": "helicopter (experimental)",
+    "top_speed": {
+      "value": 472,
+      "units": "km/h",
+      "approx_kmh": 472
+    },
+    "reference_frame": "airspeed (level flight)",
+    "year": 2013,
+    "note": "Fastest helicopter (non-FAI): 255 knots (472 km/h) level flight."
+  },
+  {
+    "rank": 20,
+    "name": "Shanghai Maglev (train)",
+    "category": "train (commercial)",
+    "top_speed": {
+      "value": 431,
+      "units": "km/h",
+      "approx_kmh": 431
+    },
+    "reference_frame": "ground speed (commercial operation)",
+    "year": 2004,
+    "note": "Fastest commercial train service (historical max 431 km/h)."
+  }
+]
