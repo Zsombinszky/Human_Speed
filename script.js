@@ -34,4 +34,9 @@ const readData = async (fileName) => {
   }
 };
 
+const data = await readData(fileName);
+
 const rootElement = document.getElementById("root");
+
+for (const x of data) {
+}
